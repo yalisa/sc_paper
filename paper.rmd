@@ -1,0 +1,25 @@
+---
+title: "Your paper title"
+author:
+date:
+output: html_document
+
+bibliography: references.bib
+link-citations: yes
+csl: gost-r-7-0-5-2008-numeric.csl
+biblio-style: numeric
+---
+
+## Abstract
+**Keywords:**
+## Introduction
+(## Literature review and critical analysis)
+## Material & methods
+## Results
+## Discussion
+## Conclusion
+## Author note
+## Acknowledgements
+## Appendix A. Supplementary material
+## Research Data [Get data from OSF](https://osf.io)
+## References
