@@ -1,0 +1,66 @@
+# you can get outline samples fom any peer reviewed journal. For example [Cognition](https://www.sciencedirect.com/journal/cognition/vol/187/suppl/C).
+
+Outline
+Abstract
+Keywords
+1. Introduction
+2. Method
+3. Results
+4. Discussion
+5. Conclusion
+6. Author note
+References
+
+Outline
+Abstract
+Keywords
+1. Introduction
+2. Theory
+3. Calculation
+4. Methods
+5. Results
+6. Discussion
+7. Conclusion
+Acknowledgements
+Appendix A. Supplementary material
+Research Data [Get data from OSF](https://osf.io)
+References
+
+Outline
+Abstract
+Keywords
+1. Introduction
+2. Theory
+3. Calculation
+4. Methods
+5. Results
+6. Discussion
+7. Conclusion
+Acknowledgements
+Appendix A. Supplementary material
+Research Data
+References
+
+Outline
+Abstract
+Keywords
+1. Introduction
+2. Material & methods
+2.1. Participants
+2.2. Apparatus
+2.3. Virtual environment
+2.4. Procedure
+2.5. Analysis
+3. Results
+3.1. Behavioural data
+3.1.1. Number of training trials
+3.1.2. Errors
+3.1.3. Response time
+3.2. Eye movement data
+3.2.1. Training phase
+3.2.2. Test phase
+3.3. Neurocognitive assessments and route learning performance
+4. Discussion
+Funding
+Appendix A. Supplementary material
+References
